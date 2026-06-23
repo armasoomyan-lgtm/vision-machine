@@ -5,7 +5,7 @@ Video-Based Deception Detection via Local-Global Facial Motion and Emotional Fea
 * Dataset : RLT dataset (Pérez-Rosas et al. 2015) loads from my google drive  ('/content/gdrive')
 * Storeing and Loading any files were perform at google drive
   
-__ stages of project running:
+__ Parts & Stages of project_Code running:
  1-Extract Face from 121 video dataset
  2-Extracting packking = 15 Of all_video_np,Emotion_label_np,micro_exp_labels
  3-Extracting homograph_label_H1_np , homograph_label_mesh_np
