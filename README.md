@@ -16,5 +16,6 @@ __ Parts & Stages of project_Code running:
  8-Training MHEmodel
  9-Logging
 
-
+__ Testing & Evaluating MHEmodel:
+The performance of the proposed hybrid model for deception detection was evaluated using the RLT dataset. We assessed the performance of the proposed hybrid model at two evaluation levels: (1) the GOP level, in which performance metrics are calculated using 15-frame GOPs, and (2) the video level, in which performance metrics are measured for complete test videos. 
 
