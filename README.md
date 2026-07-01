@@ -16,13 +16,14 @@ __ Parts & Stages of project_Code running:
  8-Training MHEmodel
  9-Logging
 
-See the fig1 , fig2 from training responses
+Fig1 , showes training diagram.
 
 
 __ Testing & Evaluating MHEmodel:
 The performance of the proposed hybrid model for deception detection was evaluated using the RLT dataset. We assessed the performance of the proposed hybrid model at two evaluation levels: (1) the GOP level, in which performance metrics are calculated using 15-frame GOPs, and (2) the video level, in which performance metrics are measured for complete test videos. 
 
 The accuracy and AUC of the proposed hybrid architecture in GOP and video level:
+
 Accuracy (%) --->	GOP	91.66	  Video	100
 
 AUC          ---> GOP	0.963   Video	 1.0
