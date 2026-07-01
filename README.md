@@ -6,7 +6,7 @@ Video-Based Deception Detection via Local-Global Facial Motion and Emotional Fea
 * Storeing and Loading any files were perform at google drive
   
 __Training MHEmodel: Parts & Stages of project_Code:
- 1-Extract Face from 121 video dataset
+ *1-Extract Face from 121 video dataset
  2-Extracting packking = 15 Of all_video_np,Emotion_label_np,micro_exp_labels
  3-Extracting homograph_label_H1_np , homograph_label_mesh_np
  4- defining  model 
